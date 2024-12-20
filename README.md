@@ -1,6 +1,6 @@
 # baseball-game-motor-mount 
 
-Design files (Freecad) for mounting a replacement vibration motor to a vintage
+Design files (FreeCad) for mounting a replacement vibration motor to a vintage
 electric baseball game. 
 
 # License: 
